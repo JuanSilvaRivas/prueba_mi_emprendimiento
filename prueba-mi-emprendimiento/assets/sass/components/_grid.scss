@@ -1,0 +1,6 @@
+//grilla para el container
+.grid-container{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(20rem, 1fr));
+    
+}
